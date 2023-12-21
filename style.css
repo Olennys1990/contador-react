@@ -1,0 +1,18 @@
+body{
+    margin:0;
+    padding: 0;
+    background-color: #FDD0A9;
+    color:snow;
+    text-align: center;
+
+}
+.menor{
+    color:#AB2A3E;
+}
+.mayor{
+    color: #b87400;
+}
+
+button{
+    margin:0px 0.5rem;
+}
